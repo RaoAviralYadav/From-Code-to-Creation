@@ -1,8 +1,8 @@
 # 📚 Important Links
 
 ## 🧑‍🏫 LinkedIN
-- [Community](https://www.linkedin.com/company/stemonefcommunity/)
-- [STEM Support](https://www.linkedin.com/showcase/stemonef-community-support-01/)
+- [STEMONEF-COMMUNITY](https://www.linkedin.com/company/stemonefcommunity/)
+- [STEMONEF COMMUNITY SUPPORT](https://www.linkedin.com/showcase/stemonef-community-support-01/)
 
 ## 📖 Documentation
 - [VSC Docs](https://code.visualstudio.com/docs)
