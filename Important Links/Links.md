@@ -24,6 +24,8 @@
   - [DAY-2](https://www.youtube.com/watch?v=dPYu4uG57fY)
   - [DAY-3](https://www.youtube.com/watch?v=Q3wGEFtubrs)
   
+  #### 👉 JSON
+  - [DAY-1]([https://www.youtube.com/watch?v=goOARwcj-NY](https://www.youtube.com/watch?v=6Ore5WJnYao))
 
 ## 🔧 Tools
 - [Visual Studio Code](https://code.visualstudio.com/download)
